@@ -1,8 +1,7 @@
 # Anomaly-Detection-on-sensors-data
 
-this is my small faculty project to studying the anomaly detection on sensors data.
-using the lstm methode to understand the anomalies on the data.
+this is my research project about learning anomaly detection unit using simple LSTM.
+the data used came from land monitoring data that record every 5 mins.
 
-there are a lot of code i tried to understand the lstm concept not all code is done.
-
-just a proof of my study on lstm algorithm concept.
+there's 2 code the first one is my concept and the second one is still on progress.
+and need to be recreate again.
